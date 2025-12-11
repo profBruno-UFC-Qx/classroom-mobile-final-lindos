@@ -3,33 +3,35 @@
 # Proposta de aplicativo
 
 ## Equipe
-* **Nome do Aluno(a) 1:** [Seu nome e matrícula]
-* **Nome do Aluno(a) 2:** [Seu nome e matrícula]
-* **Nome do Aluno(a) 3:** [Seu nome e matrícula]
-* ...
+* **Nome do Aluno(a) 1:** Guilherme Pereira Borges - 555683
+* **Nome do Aluno(a) 2:** Jeferson Augusto de Melo Gomes - 554593
+* **Nome do Aluno(a) 3:** Danyel de Lima Matos Granzotti - 553691
+* **Nome do Aluno(a) 4:** Sheiely do Ó Nascimento - 553176
 
 ---
 
 ## Título do Projeto
-[Escolha um título criativo e descritivo para o seu projeto.]
+WorkIt! — Rede social para vida saudável e esportes
 
 ## Descrição do Projeto
-[Descreva em 2-3 parágrafos o que o seu projeto faz. Qual é o problema que ele resolve? Quem é o público-alvo? Quais são as principais funcionalidades?]
+WorkIt! é um aplicativo móvel social voltado para registro, acompanhamento e engajamento em atividades físicas. O app combina um fluxo simples de registro de treinos com recursos sociais (grupos privados e públicos, feed cronológico), além de notificações para manter a motivação e promover constância nos hábitos.
+
+O objetivo é reduzir a fragmentação entre ferramentas de treino e redes sociais, oferecendo uma experiência acessível e motivadora para diferentes perfis — desde usuários casuais até usuários que valorizam a parte visual e disputas leves entre amigos.
 
 ---
 
 ## Funcionalidades Principais
-[Liste as principais funcionalidades do projeto. Use caixas de seleção para que a equipe possa marcar as concluídas nas próximas etapas.]
 
-- [ ] Funcionalidade 1: [Breve descrição da funcionalidade]
-- [ ] Funcionalidade 2: [Breve descrição da funcionalidade]
-- [ ] Funcionalidade 3: [Breve descrição da funcionalidade]
-- [ ] ...
-
----
-
-> [!WARNING]
-> Daqui em diante o README.md só deve ser preenchido no momento da entrega final.
+- [ ] Autenticação e Login: Sistema de login seguro com e-mail e senha, incluindo opções de recuperação de senha
+- [ ] Criação de Grupos Privados: Permitir ao usuário criar grupos privados definindo nome, descrição e imagem.
+- [ ] Criação de Grupos Públicos: Funcionalidade para criar grupos públicos visando reunir pessoas com interesses semelhantes em atividades físicas.
+- [ ] Exclusão de Grupos: Permissão exclusiva para o administrador (criador) excluir o grupo, com confirmação obrigatória e remoção das postagens associadas.
+- [ ] Entrada em Grupos: Mecanismo de entrada em grupos via link de convite ou aprovação do administrador para acesso ao feed.
+- [ ] Postagem de Atividades (Check-in): Criação de postagens contendo texto, até 3 fotos e vídeo curto opcional (10-15s), associadas a uma atividade fixa (ex: corrida).
+- [ ] Visualização do Feed: Exibição cronológica de cards de postagens e fotos dos membros do grupo para acompanhamento de rotinas.
+- [ ] Interação Social (Likes e Comentários): Funcionalidade que permite aos usuários curtir e comentar nas postagens de outros membros. (Desejável)
+- [ ] Sistema de Notificações: Envio de notificações push (dentro e fora do app) quando um amigo fizer uma postagem, com opção de silenciar por grupo. (Desejável)
+ 
 
 ##  Tecnologias: 
 Liste aqui as tecnologias e bibliotecas que foram utilizadas no projeto.
